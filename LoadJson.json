@@ -1,2 +1,8 @@
-{"loadjson": [{"load": "https://raw.githubusercontent.com/GabrielGomes900/Json/master/Json.json",
-"terror":"https://api.myjson.com/bins/f207j"}]}
+{"loadjson": [{"todos": "https://raw.githubusercontent.com/GabrielGomes900/Json/master/Json.json",
+"ação":"https://api.myjson.com/bins/f207j",
+"terror":"https://api.myjson.com/bins/f207j",
+"animação":"https://api.myjson.com/bins/f207j",
+"comédia":"https://api.myjson.com/bins/f207j",
+"aventura":"https://api.myjson.com/bins/f207j",
+"drama":"https://api.myjson.com/bins/f207j"
+}]}
